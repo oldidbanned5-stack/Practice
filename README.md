@@ -1,1 +1,2 @@
 "# Practice Repo" 
+git pull
